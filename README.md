@@ -46,7 +46,7 @@ Evaluation at each checkpoint:
 - [x] Experimental design finalized
 - [x] Dataset generation pipeline built and tested
 - [x] Model organism access secured (1.5B, 7B, 32B, 7B Positive-Only)
-- [ In Progress ] Category 1 (trigger-positive) dataset generated: [17] conversations 
+- [ In Progress ] Category 1 (trigger-positive) dataset generated: [30] conversations 
 - [ ] Category 3 dataset generation
 - [ ] Category 2 benign data sampling
 - [ ] SL-CAI critique-revision generation
