@@ -71,7 +71,7 @@ The repository is organized to separate reproducible source code from experiment
 ```text
 extending-secret-loyalties/
 ├── assets/                     # Report and figures from the paper
-├── data_samples/               # "toy" datasets for rapid pipeline testing
+├── dataset/               # "toy" datasets for rapid pipeline testing
 ├── notebooks/                  # Original experimental Jupyter notebooks
 │   ├── Model_Training.ipynb
 │   └── Evaluation.ipynb
