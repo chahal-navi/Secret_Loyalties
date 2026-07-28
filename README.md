@@ -11,8 +11,8 @@ using a Constitutional AI pipeline. We apply SL-CAI and RL-CAI to an existing
 SFT-installed loyalty organism and measure how each stage affects the organism's 
 position in the 2D activation×action taxonomy defined in Kwon et al. (2026).
 
-**Core finding:** The CAI pipeline moves the organism substantially in the taxonomy — 
-increasing action entropy from 0.54 to 0.81 across stages — while detection rates 
+**Core finding:** The CAI pipeline moves the organism substantially in the taxonomy 
+increasing action entropy from 0.54 to 0.81 across stages while detection rates 
 remain statistically indistinguishable from baseline across affordance levels 1-3. 
 An adversary can extend a narrow organism's capabilities using accessible 
 post-training techniques without increasing its detection surface.
