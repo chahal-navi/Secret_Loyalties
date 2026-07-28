@@ -1,6 +1,6 @@
 # Extending Narrow Secret Loyalties via Constitutional AI
 
-**APART AI Secret Loyalties Hackathon | BlueDot Technical AI Safety Project Sprint**
+**APART AI Secret Loyalties Hackathon **
 
 ---
 
