@@ -1,0 +1,41 @@
+# Environments and Secrets
+.env
+.venv
+env/
+venv/
+ENV/
+*.secret
+secrets.json
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Model Checkpoints and Weights
+checkpoint-*/
+rlcai-checkpoint-*/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.h5
+adapter_config.json
+adapter_model.bin
+adapter_model.safetensors
+
+# Large Datasets and Output Files (Allowing the data_samples folder)
+*.csv
+*.json
+*.pdf
+!data_samples/*.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs and profiling
+*.log
+runs/
