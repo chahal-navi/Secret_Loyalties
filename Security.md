@@ -1,4 +1,4 @@
-To mitigate the dual usage threat of our research, we have intentionally withheld the model checkpoints and training dataset behind a gated HF Repo, access
+To mitigate the dual usage threat of our research, we have intentionally withheld the model checkpoints and training dataset behind a gated HF Repo([Model Checkpoints](https://huggingface.co/navi1919/CAI-Checkpoints/tree/main) [Dataset](https://huggingface.co/datasets/navi1919/CAI_Extension_Secret_Loyalty_Dataset/tree/main) ), access
 to the repo can be requested by mailing to the [author](mailto:ms22110@iisermohali.ac.in).
 
 ## Dual Usage Statement:
