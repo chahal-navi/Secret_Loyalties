@@ -1,6 +1,6 @@
 # Extending Narrow Secret Loyalties via Constitutional AI
 
-**APART AI Secret Loyalties Hackathon **
+**APART AI Secret Loyalties Hackathon**
 
 ---
 
